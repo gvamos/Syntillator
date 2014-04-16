@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/home/gvamos/git/Syntillator/.metadata/.plugins/org.eclipse.jdt.core
+1270315800.index
+3559964360.index
+4145887492.index
